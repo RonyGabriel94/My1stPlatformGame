@@ -1,0 +1,10 @@
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stPlatformGame\My1stPlatformGame\bin\Debug\My1stPlatformGame.exe.config
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stPlatformGame\My1stPlatformGame\bin\Debug\My1stPlatformGame.exe
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stPlatformGame\My1stPlatformGame\bin\Debug\My1stPlatformGame.pdb
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stPlatformGame\My1stPlatformGame\obj\Debug\My1stPlatformGame.csproj.AssemblyReference.cache
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stPlatformGame\My1stPlatformGame\obj\Debug\My1stPlatformGame.Form1.resources
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stPlatformGame\My1stPlatformGame\obj\Debug\My1stPlatformGame.Properties.Resources.resources
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stPlatformGame\My1stPlatformGame\obj\Debug\My1stPlatformGame.csproj.GenerateResource.cache
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stPlatformGame\My1stPlatformGame\obj\Debug\My1stPlatformGame.csproj.CoreCompileInputs.cache
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stPlatformGame\My1stPlatformGame\obj\Debug\My1stPlatformGame.exe
+C:\Users\rgcb1\Desktop\Mis Proyectos\My1stPlatformGame\My1stPlatformGame\obj\Debug\My1stPlatformGame.pdb
